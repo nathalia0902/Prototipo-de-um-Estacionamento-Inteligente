@@ -64,8 +64,11 @@ Contribuições são bem-vindas! Fique à vontade para abrir *issues* ou enviar 
 
 ## 👨‍💻 Autores
 
-- Nathalia Lima – Engenharia da Computação – UFC Quixadá  
-- Projeto acadêmico – Disciplina de Eletromagnetismo
+- Beatriz de Sousa Alves – Engenharia da Computação – UFC Quixadá  
+- Maria Eduarda Almeida Rodrigues – Engenharia da Computação – UFC Quixadá  
+- Nathalia de Oliveira Lima – Engenharia da Computação – UFC Quixadá  
+- Pablo Brandão Passos – Engenharia da Computação – UFC Quixadá
+- Vitória das Graças Silva – Engenharia da Computação – UFC Quixadá  
 
 ---
 
