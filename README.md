@@ -1,10 +1,10 @@
-# 🅿️ Protótipo de um Estacionamento Inteligente
+# Protótipo de um Estacionamento Inteligente
 
 Este projeto tem como objetivo desenvolver um sistema inteligente de automação para estacionamentos, com foco na **gestão eficiente de vagas** e no **controle automatizado de acesso veicular**.
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O sistema busca resolver problemas comuns em estacionamentos públicos e privados, como:
 
@@ -14,7 +14,7 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - 📍 Detecção automática da ocupação de vagas com sensores;
 - 🚗 Controle automatizado de cancelas (entrada e saída);
@@ -25,7 +25,7 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 
 ---
 
-## 🧱 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **[Microcontrolador X ou Plataforma Y]** (ex: Arduino, ESP32, STM32)
 - **Sensores de presença/ultrassônicos/IR**
@@ -36,33 +36,33 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 
 ---
 
-## 🧪 Status do Projeto
+## Status do Projeto
 
-🚧 **Em desenvolvimento**  
+**Em desenvolvimento**  
 - Versão atual: `v0.1 (Protótipo)`
 - Funcionalidades principais em fase de testes e integração.
 
 ---
 
-## 📈 Escalabilidade
+## Escalabilidade
 
 O sistema foi projetado inicialmente para estacionamentos de **pequeno e médio porte (até 100 vagas)**, com arquitetura modular para permitir expansão em cenários de maior demanda.
 
 ---
 
-## 📝 Licença
+## Licença
 
 Este projeto está sob a licença [MIT](LICENSE).
 
 ---
 
-## 🤝 Contribuições
+## Contribuições
 
 Contribuições são bem-vindas! Fique à vontade para abrir *issues* ou enviar *pull requests* com melhorias, correções ou sugestões.
 
 ---
 
-## 👨‍💻 Autores
+## Autores
 
 - Beatriz de Sousa Alves – Engenharia da Computação – UFC Quixadá  
 - Maria Eduarda Almeida Rodrigues – Engenharia da Computação – UFC Quixadá  
