@@ -27,8 +27,8 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 
 ## Tecnologias Utilizadas
 
-- **[Microcontrolador X ou Plataforma Y]** (ex: Arduino, ESP32, STM32)
-- **Sensores de presença/ultrassônicos/IR**
+- **[Placa de Desenvolvimento]** Beaglebone Black
+- **Sensores de obstáculos**
 - **Linguagem C/C++** (firmware)
 - **Node.js / Python / Flask** (para backend, se aplicável)
 - **HTML/CSS/JavaScript** (interface web)
