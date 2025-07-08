@@ -16,12 +16,12 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 
 ## Funcionalidades
 
-- 📍 Detecção automática da ocupação de vagas com sensores;
-- 🚗 Controle automatizado de cancelas (entrada e saída);
-- 🌐 Interface web em tempo real com exibição de vagas disponíveis;
-- 📊 Painel informativo de status na entrada do estacionamento;
-- 📁 Registro histórico de movimentações de veículos;
-- ⚠️ Sistema de alertas e notificações para administradores.
+- Detecção automática da ocupação de vagas com sensores;
+- Controle automatizado de cancelas (entrada e saída);
+- Interface web em tempo real com exibição de vagas disponíveis;
+- Painel informativo de status na entrada do estacionamento;
+- Registro histórico de movimentações de veículos;
+- Sistema de alertas e notificações para administradores.
 
 ---
 
