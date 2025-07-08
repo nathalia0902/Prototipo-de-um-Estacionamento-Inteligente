@@ -27,12 +27,11 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 
 ## Tecnologias Utilizadas
 
-- **[Placa de Desenvolvimento]** Beaglebone Black
-- **Sensores de obstáculos**
-- **Linguagem C/C++** (firmware)
-- **Node.js / Python / Flask** (para backend, se aplicável)
+- **Placa de Desenvolvimento:** Beaglebone Black
+- **Dispositivos:** Sensor de Obstáculo e Servo Motor
+- **Linguagem de Programação:** C (hardware)
 - **HTML/CSS/JavaScript** (interface web)
-- **Banco de Dados** (ex: Firebase, SQLite, MySQL)
+- **Banco de Dados** 
 
 ---
 
