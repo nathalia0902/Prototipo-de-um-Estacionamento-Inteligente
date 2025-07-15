@@ -99,7 +99,7 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 - Diagrama de Atividades;
 - Arquitetura do Sistema.
 
-Acesse todos os detalhes no arquivo [docs/Trabalho de ES.pdf](./docs/Prototipo-de-um-Estacionamento-Inteligente.pdf)
+Acesse todos os detalhes no arquivo [documents/Protótipo de um Estacionamento Inteligente.pdf](.documents/Protótipo de um Estacionamento Inteligente.pdf)
 
 ---
 
