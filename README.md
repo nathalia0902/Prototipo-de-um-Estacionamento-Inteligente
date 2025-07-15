@@ -51,7 +51,7 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 - 🖥️**Microcontrolador:** BeagleBone Black
 - 🔌**Sensoriamento:** Sensor de Obstáculo Infravermelho
 - 🦾**Atuadores:** Servos Motores
-- 🔗** Backend/Servidor:** Linguagem C (Hardware) com sockets TCP/IP
+- 🔗**Backend/Servidor:** Linguagem C (Hardware) com sockets TCP/IP
 - 🖥️**Interface Web:**	HTML, CSS, JavaScript
 - 🖼️**Painel físico:** Display LCD via pinos GPIO
 
