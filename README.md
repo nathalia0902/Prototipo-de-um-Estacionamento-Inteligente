@@ -20,8 +20,6 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 - Controle automatizado de cancelas (entrada e saída);
 - Interface web em tempo real com exibição de vagas disponíveis;
 - Painel informativo de status na entrada do estacionamento;
-- Registro histórico de movimentações de veículos;
-- Sistema de alertas e notificações para administradores.
 
 ---
 
@@ -31,7 +29,6 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 - **Dispositivos:** Sensor de Obstáculo e Servo Motor
 - **Linguagem de Programação:** C (hardware)
 - **HTML/CSS/JavaScript** (interface web)
-- **Banco de Dados** 
 
 ---
 
@@ -40,24 +37,6 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 **Em desenvolvimento**  
 - Versão atual: `v0.1 (Protótipo)`
 - Funcionalidades principais em fase de testes e integração.
-
----
-
-## Escalabilidade
-
-O sistema foi projetado inicialmente para estacionamentos de **pequeno e médio porte (até 100 vagas)**, com arquitetura modular para permitir expansão em cenários de maior demanda.
-
----
-
-## Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
-
----
-
-## Contribuições
-
-Contribuições são bem-vindas! Fique à vontade para abrir *issues* ou enviar *pull requests* com melhorias, correções ou sugestões.
 
 ---
 
