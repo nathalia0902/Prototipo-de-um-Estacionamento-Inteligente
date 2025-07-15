@@ -99,11 +99,11 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 - Diagrama de Atividades;
 - Arquitetura do Sistema.
 
-Acesse todos os detalhes no arquivo [docs/Trabalho de ES.pdf](./docs/Trabalho%20de%20ES.pdf)
+Acesse todos os detalhes no arquivo [docs/Trabalho de ES.pdf](./docs/Prototipo-de-um-Estacionamento-Inteligente.pdf)
 
 ---
 
-## Autores
+## 🧑🏻‍💻Autores
 
 - Beatriz de Sousa Alves – Engenharia da Computação – UFC Quixadá  
 - Maria Eduarda Almeida Rodrigues – Engenharia da Computação – UFC Quixadá  
