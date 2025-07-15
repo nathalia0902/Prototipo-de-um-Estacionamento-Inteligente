@@ -105,6 +105,7 @@ Acesse todos os detalhes no arquivo [documents/Protótipo de um Estacionamento I
 
 ## 🗂️ Estrutura do Repositório
 
+```
 Prototipo-de-um-Estacionamento-Inteligente/
 │
 ├── documents/                  # Documentação (PDF, diagramas, listas)
@@ -161,7 +162,9 @@ Prototipo-de-um-Estacionamento-Inteligente/
 │   └── videoProjeto.mp4         # Demonstração em vídeo do projeto
 │
 └── README.md                  # Descrição completa do projeto
+```
 
+---
 
 ## 🧑🏻‍💻Autores
 
