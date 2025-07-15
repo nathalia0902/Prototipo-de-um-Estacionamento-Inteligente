@@ -4,7 +4,7 @@ Sistema embarcado para gestão inteligente de vagas em estacionamento, com detec
 
 ---
 
-## 📌Objetivo do Projeto
+## 📌Objetivo do Projeto 
 
 Este projeto tem como objetivo desenvolver um sistema inteligente de automação para estacionamentos, com foco na **gestão eficiente de vagas** e no **controle automatizado de acesso veicular**, eliminando o controle manual de entrada e saída, disponibilizando em tempo real a ocupação das vagas e agilizando o fluxo de veículos.
 
