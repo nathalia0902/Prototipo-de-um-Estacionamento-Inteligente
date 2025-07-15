@@ -1,4 +1,4 @@
-# 🚗🛜Protótipo de um Estacionamento Inteligente
+# 🚗🛜Protótipo de um Estacionamento Inteligente - Smart Parking
 
 Sistema embarcado para gestão inteligente de vagas em estacionamento, com detecção de veículos via sensores, controle automático de cancelas, interface web em tempo real e painel informativo para motoristas.
 
