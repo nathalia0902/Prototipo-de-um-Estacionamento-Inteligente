@@ -67,7 +67,7 @@ Contribuições são bem-vindas! Fique à vontade para abrir *issues* ou enviar 
 - Maria Eduarda Almeida Rodrigues – Engenharia da Computação – UFC Quixadá  
 - Nathalia de Oliveira Lima – Engenharia da Computação – UFC Quixadá  
 - Pablo Brandão Passos – Engenharia da Computação – UFC Quixadá
-- Vitória das Graças Silva – Engenharia da Computação – UFC Quixadá  
+- Vitória das Graças Silva – Engenharia da Computação – UFC Quixadá
 
 ---
 
