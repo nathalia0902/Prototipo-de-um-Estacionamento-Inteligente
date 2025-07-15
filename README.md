@@ -59,7 +59,7 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 
 ## 📑Requisitos
 
-### ✅ Requisitos Funcionais (RF):
+### ➡️Requisitos Funcionais (RF):
 - RF01: O sistema deve detectar a presença de veículos nas vagas por meio de sensores.
 - RF02: O sistema deve abrir automaticamente a cancela quando um veículo se aproxima da entrada e há vaga disponível.
 - RF03: O sistema deve impedir a entrada de veículos se todas as vagas estiverem ocupadas.
@@ -71,7 +71,7 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 - RF09: O sistema deve possuir um painel local (display LCD ou LED) informando o número de vagas disponíveis na entrada do estacionamento.
 - RF10: O sistema deve controlar automaticamente a cancela de saída.
 
-### ✅ Requisitos Não Funcionais (RNF):
+### ➡️Requisitos Não Funcionais (RNF):
 - RNF01: O sistema deve ter resposta em tempo real para atualizar o status das vagas na interface web.
 - RNF02: O sistema deve ser acessível via dispositivos móveis e desktops, com interface responsiva.
 - RNF03: O sistema deve manter a disponibilidade durante o horário de funcionamento do estacionamento.
