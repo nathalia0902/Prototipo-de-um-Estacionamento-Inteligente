@@ -103,6 +103,66 @@ Acesse todos os detalhes no arquivo [documents/Protótipo de um Estacionamento I
 
 ---
 
+## 🗂️ Estrutura do Repositório
+
+Prototipo-de-um-Estacionamento-Inteligente/
+│
+├── documents/                  # Documentação (PDF, diagramas, listas)
+│   └── Protótipo de um Estacionamento Inteligente.pdf
+│
+├── projeto/                    #  Backend e Frontend do projeto
+│   ├── bin/                     # Compilados do projeto (executáveis)
+│   │   └── projeto
+│   │
+│   ├── inc/                     # Arquivos de cabeçalho (.h)
+│   │   ├── gpio.h
+│   │   ├── lcd1602.h
+│   │   ├── main.h
+│   │   ├── pwm.h
+│   │   └── sensor.h
+│   │
+│   ├── obj/                     # Objetos compilados (.o)
+│   │   ├── gpio.o
+│   │   ├── lcd1602.o
+│   │   ├── main.o
+│   │   ├── pwm.o
+│   │   └── sensor.o
+│   │
+│   ├── smart-parking/
+│   │   ├── src/
+│   │   │   ├── main.c
+│   │   │   ├── server.c
+│   │   │   ├── server.h
+│   │   │   ├── vaga.c
+│   │   │   └── vaga.h
+│   │   │ 
+│   │   ├── www/
+│   │   │   ├── index.html
+│   │   │   ├── script.js
+│   │   │   └── style.css
+│   │   │ 
+│   │   ├── Makefile
+│   │   └── smart-parking
+│   │
+│   ├── src/                     # Código-fonte principal (.c)
+│   │   ├── Makefile
+│   │   ├── gpio.c
+│   │   ├── lcd1602.c
+│   │   ├── main.c
+│   │   ├── pwm.c
+│   │   └── sensor.c
+│   │
+│   ├── Config.in                
+│   ├── README.md                
+│   ├── projeto.mk               # Makefile (projeto.mk) para compilação
+│   ├── server                   # Executável do servidor
+│   ├── server.c                 # Código principal do servidor
+│   ├── setenv bootargs console.txt # Configuração de inicialização
+│   └── videoProjeto.mp4         # Demonstração em vídeo do projeto
+│
+└── README.md                  # Descrição completa do projeto
+
+
 ## 🧑🏻‍💻Autores
 
 - Beatriz de Sousa Alves – Engenharia da Computação – UFC Quixadá  
