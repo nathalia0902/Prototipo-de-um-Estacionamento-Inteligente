@@ -118,10 +118,15 @@ Acesse todos os detalhes no arquivo [**Protótipo de um Estacionamento Inteligen
 ```
 Prototipo-de-um-Estacionamento-Inteligente/
 │
-├── documents/                  # Documentação (PDF, diagramas, listas)
-│   └── Protótipo de um Estacionamento Inteligente.pdf
+├── documents/                   # Documentação geral (PDF, diagramas, listas, testes e vídeos do projeto e do sistema)
+│   ├── Vídeos do projeto/       # Demonstração em vídeo de duas versões do projeto
+│   │   ├── VideoProjeto_v1.mp4
+│   │   └── Video_versaoFinal.mp4
+│   │
+│   ├── Protótipo de um Estacionamento Inteligente.pdf
+│   └── testes_sistemicos_smartparking.xlsx         # Registros dos testes sistêmicos realizados
 │
-├── projeto/                    #  Backend e Frontend do projeto
+├── projeto/                     #  Backend e Frontend do projeto
 │   ├── bin/                     # Compilados do projeto (executáveis)
 │   │   └── projeto
 │   │
@@ -168,8 +173,7 @@ Prototipo-de-um-Estacionamento-Inteligente/
 │   ├── projeto.mk               # Makefile (projeto.mk) para compilação
 │   ├── server                   # Executável do servidor
 │   ├── server.c                 # Código principal do servidor
-│   ├── setenv bootargs console.txt # Configuração de inicialização
-│   └── videoProjeto.mp4         # Demonstração em vídeo do projeto
+│   └── setenv bootargs console.txt # Configuração de inicialização
 │
 └── README.md                  # Descrição completa do projeto
 ```
