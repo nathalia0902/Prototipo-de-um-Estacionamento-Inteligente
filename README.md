@@ -90,8 +90,12 @@ O sistema busca resolver problemas comuns em estacionamentos públicos e privado
 - Testes de detecção correta da saída do veículo, incluindo registro de horário e liberação da vaga.
 - Testes físicos de funcionamento com 2 vagas, exibindo corretamente o status livre/ocupada tanto no display quanto na interface web.
 
+##
+
 ### ➡️Testes Unitários:
 - Os testes unitários realizados no projeto encontram-se na **página 35** do arquivo de documentação: [documents/Protótipo de um Estacionamento Inteligente.pdf](https://github.com/nathalia0902/Prototipo-de-um-Estacionamento-Inteligente/blob/main/documents/Prot%C3%B3tipo%20de%20um%20Estacionamento%20Inteligente.pdf).
+
+##
 
 ### ➡️Testes Sistêmicos:
 - Os testes sistêmicos realizados manualmente com base em 5 requisitos principais do sistema estão registrados na planilha [**Testes Sistêmicos_SmartParking.xlsx**](https://docs.google.com/spreadsheets/d/1uYGbSjb0stZT6uL7ZEmDTvmU09QDp-TE/edit?gid=1620626992#gid=1620626992) e também na **página 36** do arquivo de documentação: [documents/Protótipo de um Estacionamento Inteligente.pdf](https://github.com/nathalia0902/Prototipo-de-um-Estacionamento-Inteligente/blob/main/documents/Prot%C3%B3tipo%20de%20um%20Estacionamento%20Inteligente.pdf).
