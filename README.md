@@ -118,26 +118,30 @@ Acesse todos os detalhes no arquivo [**Protótipo de um Estacionamento Inteligen
 ```
 Prototipo-de-um-Estacionamento-Inteligente/
 │
-├── documents/                   # Documentação geral (PDF, diagramas, listas, testes e vídeos do projeto e do sistema)
-│   ├── Vídeos do projeto/       # Demonstração em vídeo de duas versões do projeto
+├── documents/                        # Documentação geral (PDF, diagramas, listas, testes e vídeos do projeto e do sistema)
+│   ├── Slides de Apresentação/       # Slides apresentados em sala de aula na disciplina de Engenharia de Software
+│   │   ├── Slide (Etapa 1) - Protótipo de Estacionamento Inteligente - ES.pdf
+│   │   └── Slide (Etapa 2) - Estacionamente Inteligente.pdf
+│   │
+│   ├── Vídeos do projeto/            # Demonstração em vídeo de duas versões do projeto
 │   │   ├── VideoProjeto_v1.mp4
 │   │   └── Video_versaoFinal.mp4
 │   │
-│   ├── Protótipo de um Estacionamento Inteligente.pdf
-│   └── testes_sistemicos_smartparking.xlsx         # Registros dos testes sistêmicos realizados
+│   ├── Protótipo de um Estacionamento Inteligente.pdf   #Arquivo em PDF contendo a documentação completa do projeto
+│   └── testes_sistemicos_smartparking.xlsx              # Registros dos testes sistêmicos realizados
 │
-├── projeto/                     #  Backend e Frontend do projeto
-│   ├── bin/                     # Compilados do projeto (executáveis)
+├── projeto/                          #  Backend e Frontend do projeto
+│   ├── bin/                          # Compilados do projeto (executáveis)
 │   │   └── projeto
 │   │
-│   ├── inc/                     # Arquivos de cabeçalho (.h)
+│   ├── inc/                          # Arquivos de cabeçalho (.h)
 │   │   ├── gpio.h
 │   │   ├── lcd1602.h
 │   │   ├── main.h
 │   │   ├── pwm.h
 │   │   └── sensor.h
 │   │
-│   ├── obj/                     # Objetos compilados (.o)
+│   ├── obj/                          # Objetos compilados (.o)
 │   │   ├── gpio.o
 │   │   ├── lcd1602.o
 │   │   ├── main.o
@@ -160,7 +164,7 @@ Prototipo-de-um-Estacionamento-Inteligente/
 │   │   ├── Makefile
 │   │   └── smart-parking
 │   │
-│   ├── src/                     # Código-fonte principal (.c)
+│   ├── src/                         # Código-fonte principal (.c)
 │   │   ├── Makefile
 │   │   ├── gpio.c
 │   │   ├── lcd1602.c
@@ -170,12 +174,12 @@ Prototipo-de-um-Estacionamento-Inteligente/
 │   │
 │   ├── Config.in                
 │   ├── README.md                
-│   ├── projeto.mk               # Makefile (projeto.mk) para compilação
-│   ├── server                   # Executável do servidor
-│   ├── server.c                 # Código principal do servidor
-│   └── setenv bootargs console.txt # Configuração de inicialização
+│   ├── projeto.mk                   # Makefile (projeto.mk) para compilação
+│   ├── server                       # Executável do servidor
+│   ├── server.c                     # Código principal do servidor
+│   └── setenv bootargs console.txt  # Configuração de inicialização
 │
-└── README.md                  # Descrição completa do projeto
+└── README.md                        # Descrição completa do projeto
 ```
 
 ---
